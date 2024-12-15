@@ -1,5 +1,5 @@
 "use strict";
-/*var a=2
+var a=2
 var b=++a *2
 
 console.log("anwser 1:", b)
@@ -30,4 +30,4 @@ var m=2
 var n=3
 var o=4
 var result=m++ * (--n + m)/(o-- - n)
-console.log("anwser 8:","anwser m:", m"anwser n:", n,"anwser o:",  o)*/
+console.log("anwser 8:","anwser m:", m"anwser n:", n,"anwser o:",  o)
